@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALTER.md",
+                "file": "SELECT LANJUTAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALTER.md",
+                "file": "SELECT LANJUTAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALTER.md",
+                "file": "SELECT LANJUTAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALTER.md"
+                "file": "SELECT LANJUTAN.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "0a9e5baf88316e92",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ALTER.md"
+  ]
 }
