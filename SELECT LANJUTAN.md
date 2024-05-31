@@ -14,7 +14,8 @@ SELECT kolom1,kolom2 FROM [nama_tabel] WHERE kolom1="nilai1" AND kolom2="nilai2"
 SELECT warna,pemilik FROM mobil WHERE warna="HITAM" AND pemilik="REZKY";
 ```
 ## Hasil
-![gambar](../asset/select1.png)
+
+![gambar](/asset/select1.png)
 ## Kesimpulan
 jika ingin menampilakan data yang telah di seleksi dengan cara memberikan syarat yang semuanya harus di penuhi kalian bisa menggunakan query dengan struktur  `select kolom1,kolom2 from nama_table where kolom1='nilai_kolom1' and kolom2='nilai_kolom2';`
 
