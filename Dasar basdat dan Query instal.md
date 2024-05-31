@@ -16,7 +16,6 @@ Yang menginput sebuah data tersebut yaitu pegawai yang memegang server.
 hirarki didefinisikan sebagai **sekumpulan item data yang terkait satu sama lain dengan hubungan hierarkis**. Hubungan hierarkis ada di mana satu item data adalah induk dari item lain. Contoh data hierarkis yang umumnya disimpan dalam database meliputi yang berikut ini: Struktur organisasi.
 ![logo](ASET/struktur.jpg)
 Tabel Data Siswa SMKN 7 Makassar
-![gambar](BASIS DATA/struktur.jpg) 
 	| No | Nama |    Kelas    | JK | Umur |
 	| --- | --------| ---------- | - | ------- |
 	| 1 |    Alya    |  XI RPL 1 |  P  |   17    | --> baris/record
@@ -57,7 +56,7 @@ Buka Aplikasi XAMPP
 ## Query
 ``MySQL -u root -p``
 ## Hasil
-![mysql](ASET/MYSQL.PNG)
+![mysql](ASET/MYSQL.png)
 ## Analisis
 - ``MySQL`` adalah perintah untuk memanggil program MySQL dari baris perintah.
 - ``-u`` diikuti oleh nama pengguna (username) yang akan digunakan untuk masuk ke server MySQL. Dalam contoh ini, "root" adalah nama pengguna yang digunakan.
@@ -90,7 +89,7 @@ perintah `create database` digunakan untuk membuat database
 `SHOW DATABASES;`
 ### Hasil
 ![gambar](ASET/SHOW.png)
-![GAMBAR](ASET/TAMPILKAN.PNG)
+![GAMBAR](ASET/TAMPILKAN.png)
 
 ### Analisis
 - ``SHOW DATABASES`` bertujuan untuk menampilkan semua daftar basis data yang ada dalam sistem manajemen basis data.
@@ -162,7 +161,7 @@ Perintah `SHOW DATABASES` digunakan untuk menampilkan daftar database yang sudah
 ### Contoh Query
 `create table mobil;`
 ### Hasil
-![GAMBAR](ASET/BUAT_TABEL.PNG)
+![GAMBAR](ASET/BUAT_TABEL.png)
 
 ### Analisis
 `create table` adalah perintah untuk membuat tabel.
@@ -439,7 +438,7 @@ INSERT INTO mobil
 -> (5,"DD 2210 LS","CJH1011","HITAM","AYA",NULL,"100000");
 ```
 ## Hasil
-![tugas](Aset/tugas.png)
+![tugas](ASET/tugas.png)
 
 ## Analisis
 1. `insert into` adalah query yang digunakan untuk menginput isi table
