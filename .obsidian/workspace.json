@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SELECT LANJUTAN.md",
+                "file": "Dasar basdat dan Query instal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SELECT LANJUTAN.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Dasar basdat dan Query instal.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SELECT LANJUTAN.md",
+                "file": "Dasar basdat dan Query instal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SELECT LANJUTAN.md"
+                "file": "Dasar basdat dan Query instal.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +148,14 @@
   },
   "active": "0a9e5baf88316e92",
   "lastOpenFiles": [
+    "ASET/BUAT_TABEL.png",
+    "ASET/alter1.png",
+    "ASET/akhiran.png",
+    "ASET/2.png",
+    "ASET/1.png",
+    "Dasar basdat dan Query instal.md",
+    "BASIS DATA.md",
+    "SELECT LANJUTAN.md",
     "ALTER.md"
   ]
 }
