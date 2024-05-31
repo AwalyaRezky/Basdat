@@ -136,7 +136,7 @@ ALTER TABLE mobil DROP COLUMN deadline;
 ALTER TABLE mobil DROP COLUMN deadline;
 ```
 ## Hasil
-![gambar](ASET/drop(2).PNG)
+![gambar](ASET/drop(2).png)
 
 ## Analisis
 - `ALTER TABLE`adalah perintah SQL yang digunakan untuk mengubah struktur tabel yang ada.
