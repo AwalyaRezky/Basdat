@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALTER.md",
+                "file": "SELECT LANJUTAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALTER.md",
+                "file": "SELECT LANJUTAN.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALTER.md",
+                "file": "SELECT LANJUTAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALTER.md"
+                "file": "SELECT LANJUTAN.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "0a9e5baf88316e92",
   "lastOpenFiles": [
+    "SELECT LANJUTAN.pdf",
+    "SELECT LANJUTAN.md",
+    "ALTER.md",
     "ALTER.pdf",
     "BASIS DATA.md",
     "Dasar basdat dan Query instal.md",
     "Dasar basdat dan Query instal.pdf",
-    "SELECT LANJUTAN.md",
-    "SELECT LANJUTAN.pdf",
     "asset/select9.png",
     "asset/select8.png",
     "asset/select7.png",
@@ -166,7 +167,6 @@
     "asset/select48.png",
     "asset/select47.png",
     "asset",
-    "Untitled",
-    "ALTER.md"
+    "Untitled"
   ]
 }
