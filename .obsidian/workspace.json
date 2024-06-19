@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dasar basdat dan Query instal.md",
+                "file": "ALTER.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2d221abb0f427da4",
+            "id": "c1253b6aa913e81f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dasar basdat dan Query instal.md",
+                "file": "ALTER.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dasar basdat dan Query instal.md",
+                "file": "ALTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dasar basdat dan Query instal.md"
+                "file": "ALTER.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,14 +149,24 @@
   },
   "active": "0a9e5baf88316e92",
   "lastOpenFiles": [
-    "ASET/BUAT_TABEL.png",
-    "ASET/alter1.png",
-    "ASET/akhiran.png",
-    "ASET/2.png",
-    "ASET/1.png",
-    "Dasar basdat dan Query instal.md",
+    "ALTER.pdf",
     "BASIS DATA.md",
+    "Dasar basdat dan Query instal.md",
+    "Dasar basdat dan Query instal.pdf",
     "SELECT LANJUTAN.md",
+    "SELECT LANJUTAN.pdf",
+    "asset/select9.png",
+    "asset/select8.png",
+    "asset/select7.png",
+    "asset/select6.png",
+    "asset/select51.png",
+    "asset/select50.png",
+    "asset/select5.png",
+    "asset/select49.png",
+    "asset/select48.png",
+    "asset/select47.png",
+    "asset",
+    "Untitled",
     "ALTER.md"
   ]
 }
