@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SELECT LANJUTAN.md",
+                "file": "Praktikum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SELECT LANJUTAN.md",
+                "file": "Praktikum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SELECT LANJUTAN.md",
+                "file": "Praktikum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SELECT LANJUTAN.md"
+                "file": "Praktikum.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "0a9e5baf88316e92",
   "lastOpenFiles": [
-    "SELECT LANJUTAN.pdf",
+    "Praktikum.pdf",
     "SELECT LANJUTAN.md",
+    "Praktikum.md",
+    "SELECT LANJUTAN.pdf",
     "ALTER.md",
     "ALTER.pdf",
     "BASIS DATA.md",
